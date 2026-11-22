@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER — Modern Fashion & Lifestyle Store",
+  "description": "Contemporary fashion and lifestyle e-commerce storefront featuring men's wear, women's wear, streetwear, footwear, accessories, and full-stack order & catalog management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

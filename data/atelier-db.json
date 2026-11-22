@@ -1,0 +1,2560 @@
+{
+  "users": [],
+  "sessions": [],
+  "reset_tokens": [],
+  "categories": [
+    {
+      "id": "cat-mens",
+      "name": "Men's Clothing",
+      "slug": "mens-clothing",
+      "subtitle": "Tailored silhouettes & everyday layers",
+      "description": "Architectural shirting, selvedge denim, and heavyweight cotton essentials engineered for daily rotation.",
+      "image_url": "/src/assets/images/prod_casual_shirt_1795358068564.jpg",
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "cat-womens",
+      "name": "Women's Clothing",
+      "slug": "womens-clothing",
+      "subtitle": "Refined drape & organic knitwear",
+      "description": "Merino knitwear, sculpted tops, and breathable linen silhouettes crafted with quiet proportion.",
+      "image_url": "/src/assets/images/hero_editorial_blazer_1795358277842.jpg",
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "cat-streetwear",
+      "name": "Streetwear",
+      "slug": "streetwear",
+      "subtitle": "Heavyweight jersey & utility cuts",
+      "description": "Boxy loopback hoodies, articulated cargos, and garment-dyed tees built for modern urban movement.",
+      "image_url": "/src/assets/images/hero_streetwear_look_1795358068664.jpg",
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "cat-sneakers",
+      "name": "Sneakers",
+      "slug": "sneakers",
+      "subtitle": "Full-grain leather & suede court lows",
+      "description": "Minimalist footwear with stitched cupsoles, Italian suede trims, and all-day cushioned footbeds.",
+      "image_url": "/src/assets/images/prod_minimal_sneakers_1795358069136.jpg",
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "cat-accessories",
+      "name": "Accessories",
+      "slug": "accessories",
+      "subtitle": "Structured canvas & saddle leather",
+      "description": "Heavyweight canvas totes, functional carryalls, and tactile accents designed to age gracefully.",
+      "image_url": "/src/assets/images/prod_tote_bag_1795358068183.jpg",
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "cat-summer",
+      "name": "Summer Collection",
+      "slug": "summer-collection",
+      "subtitle": "Breathable Belgian linen & sunlit tones",
+      "description": "Airy camp-collar shirting, unlined resort tailoring, and lightweight weaves for warm-weather dressing.",
+      "image_url": "/src/assets/images/hero_womens_summer_1795358279419.jpg",
+      "created_at": "2026-11-22T14:45:52.435Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Oversized Cotton T-Shirt",
+      "slug": "oversized-cotton-t-shirt",
+      "description": "Cut from 280 GSM combed organic cotton jersey with a relaxed drop shoulder, dense ribbed collar, and clean straight hem.",
+      "fabric_info": "100% GOTS-Certified Organic Cotton · 280 GSM Heavyweight Jersey",
+      "care_info": "Machine wash cold inside out. Lay flat to dry. Do not tumble dry.",
+      "category_id": "cat-streetwear",
+      "category_name": "Streetwear",
+      "category_slug": "streetwear",
+      "gender": "unisex",
+      "brand": "ATELIER ORIGINALS",
+      "collection": "Minimal Essentials",
+      "base_price": 1399,
+      "sale_price": 999,
+      "featured": true,
+      "bestseller": true,
+      "new_arrival": true,
+      "status": "active",
+      "rating_avg": 4.8,
+      "review_count": 64,
+      "images": [
+        {
+          "id": "prod-1-img-1",
+          "product_id": "prod-1",
+          "image_url": "/src/assets/images/prod_oversized_tee_1795358068409.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-1-img-2",
+          "product_id": "prod-1",
+          "image_url": "/src/assets/images/hero_streetwear_look_1795358068664.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-1-xs-chalkwhite",
+          "product_id": "prod-1",
+          "size": "XS",
+          "color": "Chalk White",
+          "color_hex": "#F4F3EE",
+          "sku": "ATL-001-XS-CHA",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-1-xs-washedcharcoal",
+          "product_id": "prod-1",
+          "size": "XS",
+          "color": "Washed Charcoal",
+          "color_hex": "#343537",
+          "sku": "ATL-001-XS-WAS",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-1-s-chalkwhite",
+          "product_id": "prod-1",
+          "size": "S",
+          "color": "Chalk White",
+          "color_hex": "#F4F3EE",
+          "sku": "ATL-001-S-CHA",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-1-s-washedcharcoal",
+          "product_id": "prod-1",
+          "size": "S",
+          "color": "Washed Charcoal",
+          "color_hex": "#343537",
+          "sku": "ATL-001-S-WAS",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-1-m-chalkwhite",
+          "product_id": "prod-1",
+          "size": "M",
+          "color": "Chalk White",
+          "color_hex": "#F4F3EE",
+          "sku": "ATL-001-M-CHA",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-1-m-washedcharcoal",
+          "product_id": "prod-1",
+          "size": "M",
+          "color": "Washed Charcoal",
+          "color_hex": "#343537",
+          "sku": "ATL-001-M-WAS",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-1-l-chalkwhite",
+          "product_id": "prod-1",
+          "size": "L",
+          "color": "Chalk White",
+          "color_hex": "#F4F3EE",
+          "sku": "ATL-001-L-CHA",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-1-l-washedcharcoal",
+          "product_id": "prod-1",
+          "size": "L",
+          "color": "Washed Charcoal",
+          "color_hex": "#343537",
+          "sku": "ATL-001-L-WAS",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-1-xl-chalkwhite",
+          "product_id": "prod-1",
+          "size": "XL",
+          "color": "Chalk White",
+          "color_hex": "#F4F3EE",
+          "sku": "ATL-001-XL-CHA",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-1-xl-washedcharcoal",
+          "product_id": "prod-1",
+          "size": "XL",
+          "color": "Washed Charcoal",
+          "color_hex": "#343537",
+          "sku": "ATL-001-XL-WAS",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-2",
+      "name": "Premium Casual Shirt",
+      "slug": "premium-casual-shirt",
+      "description": "Garment-washed European flax linen and organic cotton blend tailored with mother-of-pearl buttons and a relaxed camp drape.",
+      "fabric_info": "55% Belgian Linen, 45% Combed Organic Cotton",
+      "care_info": "Gentle cold wash. Steam while slightly damp for a natural drape.",
+      "category_id": "cat-mens",
+      "category_name": "Men's Clothing",
+      "category_slug": "mens-clothing",
+      "gender": "men",
+      "brand": "FORM STUDIO",
+      "collection": "The Everyday Edit",
+      "base_price": 2399,
+      "sale_price": 1799,
+      "featured": true,
+      "bestseller": true,
+      "new_arrival": false,
+      "status": "active",
+      "rating_avg": 4.9,
+      "review_count": 41,
+      "images": [
+        {
+          "id": "prod-2-img-1",
+          "product_id": "prod-2",
+          "image_url": "/src/assets/images/prod_casual_shirt_1795358068564.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-2-img-2",
+          "product_id": "prod-2",
+          "image_url": "/src/assets/images/prod_linen_resort_set_1795358068845.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-2-s-sagestone",
+          "product_id": "prod-2",
+          "size": "S",
+          "color": "Sage Stone",
+          "color_hex": "#8F9689",
+          "sku": "ATL-002-S-SAG",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-2-s-warmivory",
+          "product_id": "prod-2",
+          "size": "S",
+          "color": "Warm Ivory",
+          "color_hex": "#EDEAE0",
+          "sku": "ATL-002-S-WAR",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-2-m-sagestone",
+          "product_id": "prod-2",
+          "size": "M",
+          "color": "Sage Stone",
+          "color_hex": "#8F9689",
+          "sku": "ATL-002-M-SAG",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-2-m-warmivory",
+          "product_id": "prod-2",
+          "size": "M",
+          "color": "Warm Ivory",
+          "color_hex": "#EDEAE0",
+          "sku": "ATL-002-M-WAR",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-2-l-sagestone",
+          "product_id": "prod-2",
+          "size": "L",
+          "color": "Sage Stone",
+          "color_hex": "#8F9689",
+          "sku": "ATL-002-L-SAG",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-2-l-warmivory",
+          "product_id": "prod-2",
+          "size": "L",
+          "color": "Warm Ivory",
+          "color_hex": "#EDEAE0",
+          "sku": "ATL-002-L-WAR",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-2-xl-sagestone",
+          "product_id": "prod-2",
+          "size": "XL",
+          "color": "Sage Stone",
+          "color_hex": "#8F9689",
+          "sku": "ATL-002-XL-SAG",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-2-xl-warmivory",
+          "product_id": "prod-2",
+          "size": "XL",
+          "color": "Warm Ivory",
+          "color_hex": "#EDEAE0",
+          "sku": "ATL-002-XL-WAR",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-3",
+      "name": "Relaxed Fit Denim",
+      "slug": "relaxed-fit-denim",
+      "description": "13.5 oz Japanese selvedge denim woven on vintage shuttle looms with a mid-rise, room through the thigh, and subtle taper.",
+      "fabric_info": "100% Organic Cotton Japanese Selvedge Denim · 13.5 oz",
+      "care_info": "Wash sparingly in cold water. Hang dry away from direct heat.",
+      "category_id": "cat-womens",
+      "category_name": "Women's Clothing",
+      "category_slug": "womens-clothing",
+      "gender": "unisex",
+      "brand": "ATELIER ORIGINALS",
+      "collection": "Contemporary Classics",
+      "base_price": 3199,
+      "sale_price": 2499,
+      "featured": true,
+      "bestseller": true,
+      "new_arrival": false,
+      "status": "active",
+      "rating_avg": 4.7,
+      "review_count": 52,
+      "images": [
+        {
+          "id": "prod-3-img-1",
+          "product_id": "prod-3",
+          "image_url": "/src/assets/images/prod_relaxed_denim_1795358068792.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-3-img-2",
+          "product_id": "prod-3",
+          "image_url": "/src/assets/images/prod_oversized_tee_1795358068409.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-3-28-vintageindigo",
+          "product_id": "prod-3",
+          "size": "28",
+          "color": "Vintage Indigo",
+          "color_hex": "#2F4663",
+          "sku": "ATL-003-28-VIN",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-3-28-washedslate",
+          "product_id": "prod-3",
+          "size": "28",
+          "color": "Washed Slate",
+          "color_hex": "#4B525A",
+          "sku": "ATL-003-28-WAS",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-3-30-vintageindigo",
+          "product_id": "prod-3",
+          "size": "30",
+          "color": "Vintage Indigo",
+          "color_hex": "#2F4663",
+          "sku": "ATL-003-30-VIN",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-3-30-washedslate",
+          "product_id": "prod-3",
+          "size": "30",
+          "color": "Washed Slate",
+          "color_hex": "#4B525A",
+          "sku": "ATL-003-30-WAS",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-3-32-vintageindigo",
+          "product_id": "prod-3",
+          "size": "32",
+          "color": "Vintage Indigo",
+          "color_hex": "#2F4663",
+          "sku": "ATL-003-32-VIN",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-3-32-washedslate",
+          "product_id": "prod-3",
+          "size": "32",
+          "color": "Washed Slate",
+          "color_hex": "#4B525A",
+          "sku": "ATL-003-32-WAS",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-3-34-vintageindigo",
+          "product_id": "prod-3",
+          "size": "34",
+          "color": "Vintage Indigo",
+          "color_hex": "#2F4663",
+          "sku": "ATL-003-34-VIN",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-3-34-washedslate",
+          "product_id": "prod-3",
+          "size": "34",
+          "color": "Washed Slate",
+          "color_hex": "#4B525A",
+          "sku": "ATL-003-34-WAS",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-3-36-vintageindigo",
+          "product_id": "prod-3",
+          "size": "36",
+          "color": "Vintage Indigo",
+          "color_hex": "#2F4663",
+          "sku": "ATL-003-36-VIN",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-3-36-washedslate",
+          "product_id": "prod-3",
+          "size": "36",
+          "color": "Washed Slate",
+          "color_hex": "#4B525A",
+          "sku": "ATL-003-36-WAS",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-4",
+      "name": "Essential Hoodie",
+      "slug": "essential-hoodie",
+      "description": "Boxy silhouette constructed from 440 GSM French terry loopback cotton with double-lined hood and tonal flatlock stitching.",
+      "fabric_info": "100% Loopback Cotton French Terry · 440 GSM",
+      "care_info": "Cold gentle cycle. Dry flat to preserve shoulder structure.",
+      "category_id": "cat-streetwear",
+      "category_name": "Streetwear",
+      "category_slug": "streetwear",
+      "gender": "unisex",
+      "brand": "ESSENTIALS",
+      "collection": "Urban Streetwear",
+      "base_price": 2799,
+      "sale_price": 1999,
+      "featured": true,
+      "bestseller": true,
+      "new_arrival": true,
+      "status": "active",
+      "rating_avg": 4.9,
+      "review_count": 89,
+      "images": [
+        {
+          "id": "prod-4-img-1",
+          "product_id": "prod-4",
+          "image_url": "/src/assets/images/prod_essential_hoodie_1795358068572.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-4-img-2",
+          "product_id": "prod-4",
+          "image_url": "/src/assets/images/prod_street_cargo_1795358068722.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-4-s-charcoalwash",
+          "product_id": "prod-4",
+          "size": "S",
+          "color": "Charcoal Wash",
+          "color_hex": "#2E2F32",
+          "sku": "ATL-004-S-CHA",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-4-s-oatmeal",
+          "product_id": "prod-4",
+          "size": "S",
+          "color": "Oatmeal",
+          "color_hex": "#DDD8CD",
+          "sku": "ATL-004-S-OAT",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-4-m-charcoalwash",
+          "product_id": "prod-4",
+          "size": "M",
+          "color": "Charcoal Wash",
+          "color_hex": "#2E2F32",
+          "sku": "ATL-004-M-CHA",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-4-m-oatmeal",
+          "product_id": "prod-4",
+          "size": "M",
+          "color": "Oatmeal",
+          "color_hex": "#DDD8CD",
+          "sku": "ATL-004-M-OAT",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-4-l-charcoalwash",
+          "product_id": "prod-4",
+          "size": "L",
+          "color": "Charcoal Wash",
+          "color_hex": "#2E2F32",
+          "sku": "ATL-004-L-CHA",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-4-l-oatmeal",
+          "product_id": "prod-4",
+          "size": "L",
+          "color": "Oatmeal",
+          "color_hex": "#DDD8CD",
+          "sku": "ATL-004-L-OAT",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-4-xl-charcoalwash",
+          "product_id": "prod-4",
+          "size": "XL",
+          "color": "Charcoal Wash",
+          "color_hex": "#2E2F32",
+          "sku": "ATL-004-XL-CHA",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-4-xl-oatmeal",
+          "product_id": "prod-4",
+          "size": "XL",
+          "color": "Oatmeal",
+          "color_hex": "#DDD8CD",
+          "sku": "ATL-004-XL-OAT",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-5",
+      "name": "Women's Summer Dress",
+      "slug": "womens-summer-dress",
+      "description": "Effortless A-line silhouette cut from breathable linen-viscose with crisp architectural pleats and concealed side pockets.",
+      "fabric_info": "65% European Linen, 35% EcoVero Viscose",
+      "care_info": "Hand wash cold or delicate cycle. Light steam.",
+      "category_id": "cat-womens",
+      "category_name": "Women's Clothing",
+      "category_slug": "womens-clothing",
+      "gender": "women",
+      "brand": "EVERYDAY EDIT",
+      "collection": "Summer Breeze",
+      "base_price": 2999,
+      "sale_price": 2299,
+      "featured": true,
+      "bestseller": false,
+      "new_arrival": true,
+      "status": "active",
+      "rating_avg": 4.8,
+      "review_count": 33,
+      "images": [
+        {
+          "id": "prod-5-img-1",
+          "product_id": "prod-5",
+          "image_url": "/src/assets/images/prod_summer_dress_1795358277668.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-5-img-2",
+          "product_id": "prod-5",
+          "image_url": "/src/assets/images/hero_womens_summer_1795358279419.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-5-xs-warmcream",
+          "product_id": "prod-5",
+          "size": "XS",
+          "color": "Warm Cream",
+          "color_hex": "#EFECE3",
+          "sku": "ATL-005-XS-WAR",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-5-xs-espresso",
+          "product_id": "prod-5",
+          "size": "XS",
+          "color": "Espresso",
+          "color_hex": "#3D2E27",
+          "sku": "ATL-005-XS-ESP",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-5-s-warmcream",
+          "product_id": "prod-5",
+          "size": "S",
+          "color": "Warm Cream",
+          "color_hex": "#EFECE3",
+          "sku": "ATL-005-S-WAR",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-5-s-espresso",
+          "product_id": "prod-5",
+          "size": "S",
+          "color": "Espresso",
+          "color_hex": "#3D2E27",
+          "sku": "ATL-005-S-ESP",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-5-m-warmcream",
+          "product_id": "prod-5",
+          "size": "M",
+          "color": "Warm Cream",
+          "color_hex": "#EFECE3",
+          "sku": "ATL-005-M-WAR",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-5-m-espresso",
+          "product_id": "prod-5",
+          "size": "M",
+          "color": "Espresso",
+          "color_hex": "#3D2E27",
+          "sku": "ATL-005-M-ESP",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-5-l-warmcream",
+          "product_id": "prod-5",
+          "size": "L",
+          "color": "Warm Cream",
+          "color_hex": "#EFECE3",
+          "sku": "ATL-005-L-WAR",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-5-l-espresso",
+          "product_id": "prod-5",
+          "size": "L",
+          "color": "Espresso",
+          "color_hex": "#3D2E27",
+          "sku": "ATL-005-L-ESP",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-6",
+      "name": "Minimal Sneakers",
+      "slug": "minimal-sneakers",
+      "description": "Hand-lasted low-top court sneakers combining full-grain calfskin leather, brushed sand suede panels, and Margom rubber soles.",
+      "fabric_info": "Full-Grain Italian Calfskin & Suede · Natural Rubber Cupsole",
+      "care_info": "Wipe leather with damp cloth. Brush suede gently with soft crepe brush.",
+      "category_id": "cat-sneakers",
+      "category_name": "Sneakers",
+      "category_slug": "sneakers",
+      "gender": "unisex",
+      "brand": "FORM STUDIO",
+      "collection": "Minimal Essentials",
+      "base_price": 3999,
+      "sale_price": 2999,
+      "featured": true,
+      "bestseller": true,
+      "new_arrival": true,
+      "status": "active",
+      "rating_avg": 4.9,
+      "review_count": 77,
+      "images": [
+        {
+          "id": "prod-6-img-1",
+          "product_id": "prod-6",
+          "image_url": "/src/assets/images/prod_minimal_sneakers_1795358069136.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-6-img-2",
+          "product_id": "prod-6",
+          "image_url": "/src/assets/images/prod_oversized_tee_1795358068409.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-6-uk6-chalksand",
+          "product_id": "prod-6",
+          "size": "UK 6",
+          "color": "Chalk & Sand",
+          "color_hex": "#EDE9DF",
+          "sku": "ATL-006-UK6-CHA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-6-uk6-bonewhite",
+          "product_id": "prod-6",
+          "size": "UK 6",
+          "color": "Bone White",
+          "color_hex": "#F6F5F0",
+          "sku": "ATL-006-UK6-BON",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-6-uk7-chalksand",
+          "product_id": "prod-6",
+          "size": "UK 7",
+          "color": "Chalk & Sand",
+          "color_hex": "#EDE9DF",
+          "sku": "ATL-006-UK7-CHA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-6-uk7-bonewhite",
+          "product_id": "prod-6",
+          "size": "UK 7",
+          "color": "Bone White",
+          "color_hex": "#F6F5F0",
+          "sku": "ATL-006-UK7-BON",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-6-uk8-chalksand",
+          "product_id": "prod-6",
+          "size": "UK 8",
+          "color": "Chalk & Sand",
+          "color_hex": "#EDE9DF",
+          "sku": "ATL-006-UK8-CHA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-6-uk8-bonewhite",
+          "product_id": "prod-6",
+          "size": "UK 8",
+          "color": "Bone White",
+          "color_hex": "#F6F5F0",
+          "sku": "ATL-006-UK8-BON",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-6-uk9-chalksand",
+          "product_id": "prod-6",
+          "size": "UK 9",
+          "color": "Chalk & Sand",
+          "color_hex": "#EDE9DF",
+          "sku": "ATL-006-UK9-CHA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-6-uk9-bonewhite",
+          "product_id": "prod-6",
+          "size": "UK 9",
+          "color": "Bone White",
+          "color_hex": "#F6F5F0",
+          "sku": "ATL-006-UK9-BON",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-6-uk10-chalksand",
+          "product_id": "prod-6",
+          "size": "UK 10",
+          "color": "Chalk & Sand",
+          "color_hex": "#EDE9DF",
+          "sku": "ATL-006-UK10-CHA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-6-uk10-bonewhite",
+          "product_id": "prod-6",
+          "size": "UK 10",
+          "color": "Bone White",
+          "color_hex": "#F6F5F0",
+          "sku": "ATL-006-UK10-BON",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-7",
+      "name": "Classic Bomber Jacket",
+      "slug": "classic-bomber-jacket",
+      "description": "Water-repellent Japanese nylon-cotton twill bomber with matte two-way gunmetal zip, articulated sleeves, and ribbed trims.",
+      "fabric_info": "62% Recycled Nylon, 38% Pima Cotton Twill · Cupro Lining",
+      "care_info": "Spot clean or specialist dry clean only.",
+      "category_id": "cat-mens",
+      "category_name": "Men's Clothing",
+      "category_slug": "mens-clothing",
+      "gender": "unisex",
+      "brand": "URBAN CULTURE",
+      "collection": "Contemporary Classics",
+      "base_price": 4499,
+      "sale_price": 3499,
+      "featured": true,
+      "bestseller": true,
+      "new_arrival": false,
+      "status": "active",
+      "rating_avg": 4.8,
+      "review_count": 45,
+      "images": [
+        {
+          "id": "prod-7-img-1",
+          "product_id": "prod-7",
+          "image_url": "/src/assets/images/prod_bomber_jacket_1795358069410.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-7-img-2",
+          "product_id": "prod-7",
+          "image_url": "/src/assets/images/prod_overshirt_jacket_1795358069536.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-7-s-olivenoir",
+          "product_id": "prod-7",
+          "size": "S",
+          "color": "Olive Noir",
+          "color_hex": "#2E322B",
+          "sku": "ATL-007-S-OLI",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-7-s-sandstone",
+          "product_id": "prod-7",
+          "size": "S",
+          "color": "Sandstone",
+          "color_hex": "#C7B8A1",
+          "sku": "ATL-007-S-SAN",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-7-m-olivenoir",
+          "product_id": "prod-7",
+          "size": "M",
+          "color": "Olive Noir",
+          "color_hex": "#2E322B",
+          "sku": "ATL-007-M-OLI",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-7-m-sandstone",
+          "product_id": "prod-7",
+          "size": "M",
+          "color": "Sandstone",
+          "color_hex": "#C7B8A1",
+          "sku": "ATL-007-M-SAN",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-7-l-olivenoir",
+          "product_id": "prod-7",
+          "size": "L",
+          "color": "Olive Noir",
+          "color_hex": "#2E322B",
+          "sku": "ATL-007-L-OLI",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-7-l-sandstone",
+          "product_id": "prod-7",
+          "size": "L",
+          "color": "Sandstone",
+          "color_hex": "#C7B8A1",
+          "sku": "ATL-007-L-SAN",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-7-xl-olivenoir",
+          "product_id": "prod-7",
+          "size": "XL",
+          "color": "Olive Noir",
+          "color_hex": "#2E322B",
+          "sku": "ATL-007-XL-OLI",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-7-xl-sandstone",
+          "product_id": "prod-7",
+          "size": "XL",
+          "color": "Sandstone",
+          "color_hex": "#C7B8A1",
+          "sku": "ATL-007-XL-SAN",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-8",
+      "name": "Everyday Tote Bag",
+      "slug": "everyday-tote-bag",
+      "description": "24 oz waxed natural cotton canvas paired with vegetable-tanned bridle leather straps, solid brass rivets, and a padded 16\" laptop sleeve.",
+      "fabric_info": "24 oz Organic Cotton Canvas · Vegetable-Tanned Full-Grain Leather",
+      "care_info": "Brush off dust. Condition leather straps annually with neutral balm.",
+      "category_id": "cat-accessories",
+      "category_name": "Accessories",
+      "category_slug": "accessories",
+      "gender": "unisex",
+      "brand": "ATELIER ORIGINALS",
+      "collection": "The Everyday Edit",
+      "base_price": 1299,
+      "sale_price": 899,
+      "featured": true,
+      "bestseller": true,
+      "new_arrival": false,
+      "status": "active",
+      "rating_avg": 4.9,
+      "review_count": 112,
+      "images": [
+        {
+          "id": "prod-8-img-1",
+          "product_id": "prod-8",
+          "image_url": "/src/assets/images/prod_tote_bag_1795358068183.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-8-img-2",
+          "product_id": "prod-8",
+          "image_url": "/src/assets/images/prod_minimal_sneakers_1795358069136.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-8-onesize-ecrucognac",
+          "product_id": "prod-8",
+          "size": "One Size",
+          "color": "Ecru & Cognac",
+          "color_hex": "#C9B89E",
+          "sku": "ATL-008-OneSize-ECR",
+          "stock_quantity": 31,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-8-onesize-charcoalcanvas",
+          "product_id": "prod-8",
+          "size": "One Size",
+          "color": "Charcoal Canvas",
+          "color_hex": "#3A3A3A",
+          "sku": "ATL-008-OneSize-CHA",
+          "stock_quantity": 31,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-9",
+      "name": "Merino Cropped Cardigan",
+      "slug": "merino-cropped-cardigan",
+      "description": "Fine-gauge 100% Australian merino wool cardigan finished with natural horn buttons and softly ribbed cuffs.",
+      "fabric_info": "100% Extra-Fine Merino Wool · 12-Gauge Knit",
+      "care_info": "Hand wash cold with wool detergent. Reshape and dry flat.",
+      "category_id": "cat-womens",
+      "category_name": "Women's Clothing",
+      "category_slug": "womens-clothing",
+      "gender": "women",
+      "brand": "EVERYDAY EDIT",
+      "collection": "Contemporary Classics",
+      "base_price": 3299,
+      "sale_price": 2699,
+      "featured": false,
+      "bestseller": true,
+      "new_arrival": true,
+      "status": "active",
+      "rating_avg": 4.7,
+      "review_count": 29,
+      "images": [
+        {
+          "id": "prod-9-img-1",
+          "product_id": "prod-9",
+          "image_url": "/src/assets/images/prod_cropped_cardigan_1795358068162.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-9-img-2",
+          "product_id": "prod-9",
+          "image_url": "/src/assets/images/prod_ribbed_knit_top_1795358068774.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-9-xs-ivorycream",
+          "product_id": "prod-9",
+          "size": "XS",
+          "color": "Ivory Cream",
+          "color_hex": "#F3F0E6",
+          "sku": "ATL-009-XS-IVO",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-9-xs-stonetaupe",
+          "product_id": "prod-9",
+          "size": "XS",
+          "color": "Stone Taupe",
+          "color_hex": "#B4ACA0",
+          "sku": "ATL-009-XS-STO",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-9-s-ivorycream",
+          "product_id": "prod-9",
+          "size": "S",
+          "color": "Ivory Cream",
+          "color_hex": "#F3F0E6",
+          "sku": "ATL-009-S-IVO",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-9-s-stonetaupe",
+          "product_id": "prod-9",
+          "size": "S",
+          "color": "Stone Taupe",
+          "color_hex": "#B4ACA0",
+          "sku": "ATL-009-S-STO",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-9-m-ivorycream",
+          "product_id": "prod-9",
+          "size": "M",
+          "color": "Ivory Cream",
+          "color_hex": "#F3F0E6",
+          "sku": "ATL-009-M-IVO",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-9-m-stonetaupe",
+          "product_id": "prod-9",
+          "size": "M",
+          "color": "Stone Taupe",
+          "color_hex": "#B4ACA0",
+          "sku": "ATL-009-M-STO",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-9-l-ivorycream",
+          "product_id": "prod-9",
+          "size": "L",
+          "color": "Ivory Cream",
+          "color_hex": "#F3F0E6",
+          "sku": "ATL-009-L-IVO",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-9-l-stonetaupe",
+          "product_id": "prod-9",
+          "size": "L",
+          "color": "Stone Taupe",
+          "color_hex": "#B4ACA0",
+          "sku": "ATL-009-L-STO",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-10",
+      "name": "Articulated Utility Cargo",
+      "slug": "articulated-utility-cargo",
+      "description": "Technical cotton ripstop cargos featuring articulated knee darts, concealed gusset pockets, and adjustable drawcord hems.",
+      "fabric_info": "98% Organic Cotton Ripstop, 2% Elastane",
+      "care_info": "Machine wash cold. Line dry.",
+      "category_id": "cat-streetwear",
+      "category_name": "Streetwear",
+      "category_slug": "streetwear",
+      "gender": "men",
+      "brand": "URBAN CULTURE",
+      "collection": "Urban Streetwear",
+      "base_price": 3499,
+      "sale_price": 2799,
+      "featured": false,
+      "bestseller": false,
+      "new_arrival": true,
+      "status": "active",
+      "rating_avg": 4.6,
+      "review_count": 37,
+      "images": [
+        {
+          "id": "prod-10-img-1",
+          "product_id": "prod-10",
+          "image_url": "/src/assets/images/prod_street_cargo_1795358068722.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-10-img-2",
+          "product_id": "prod-10",
+          "image_url": "/src/assets/images/hero_streetwear_look_1795358068664.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-10-28-slateolive",
+          "product_id": "prod-10",
+          "size": "28",
+          "color": "Slate Olive",
+          "color_hex": "#6F7568",
+          "sku": "ATL-010-28-SLA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-10-28-graphite",
+          "product_id": "prod-10",
+          "size": "28",
+          "color": "Graphite",
+          "color_hex": "#37393B",
+          "sku": "ATL-010-28-GRA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-10-30-slateolive",
+          "product_id": "prod-10",
+          "size": "30",
+          "color": "Slate Olive",
+          "color_hex": "#6F7568",
+          "sku": "ATL-010-30-SLA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-10-30-graphite",
+          "product_id": "prod-10",
+          "size": "30",
+          "color": "Graphite",
+          "color_hex": "#37393B",
+          "sku": "ATL-010-30-GRA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-10-32-slateolive",
+          "product_id": "prod-10",
+          "size": "32",
+          "color": "Slate Olive",
+          "color_hex": "#6F7568",
+          "sku": "ATL-010-32-SLA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-10-32-graphite",
+          "product_id": "prod-10",
+          "size": "32",
+          "color": "Graphite",
+          "color_hex": "#37393B",
+          "sku": "ATL-010-32-GRA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-10-34-slateolive",
+          "product_id": "prod-10",
+          "size": "34",
+          "color": "Slate Olive",
+          "color_hex": "#6F7568",
+          "sku": "ATL-010-34-SLA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-10-34-graphite",
+          "product_id": "prod-10",
+          "size": "34",
+          "color": "Graphite",
+          "color_hex": "#37393B",
+          "sku": "ATL-010-34-GRA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-10-36-slateolive",
+          "product_id": "prod-10",
+          "size": "36",
+          "color": "Slate Olive",
+          "color_hex": "#6F7568",
+          "sku": "ATL-010-36-SLA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-10-36-graphite",
+          "product_id": "prod-10",
+          "size": "36",
+          "color": "Graphite",
+          "color_hex": "#37393B",
+          "sku": "ATL-010-36-GRA",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-11",
+      "name": "Sculpted Ribbed Knit Top",
+      "slug": "sculpted-ribbed-knit-top",
+      "description": "Sleeveless high-neck halter top knitted in compact organic cotton rib for a clean, body-skimming contour.",
+      "fabric_info": "94% Organic Cotton, 6% Elastane Compact Rib",
+      "care_info": "Gentle cold wash in mesh bag. Dry flat.",
+      "category_id": "cat-womens",
+      "category_name": "Women's Clothing",
+      "category_slug": "womens-clothing",
+      "gender": "women",
+      "brand": "FORM STUDIO",
+      "collection": "Minimal Essentials",
+      "base_price": 1499,
+      "sale_price": 1199,
+      "featured": false,
+      "bestseller": false,
+      "new_arrival": true,
+      "status": "active",
+      "rating_avg": 4.8,
+      "review_count": 24,
+      "images": [
+        {
+          "id": "prod-11-img-1",
+          "product_id": "prod-11",
+          "image_url": "/src/assets/images/prod_ribbed_knit_top_1795358068774.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-11-img-2",
+          "product_id": "prod-11",
+          "image_url": "/src/assets/images/prod_cropped_cardigan_1795358068162.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-11-xs-espresso",
+          "product_id": "prod-11",
+          "size": "XS",
+          "color": "Espresso",
+          "color_hex": "#3F2D24",
+          "sku": "ATL-011-XS-ESP",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-11-xs-warmsand",
+          "product_id": "prod-11",
+          "size": "XS",
+          "color": "Warm Sand",
+          "color_hex": "#D6CAB8",
+          "sku": "ATL-011-XS-WAR",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-11-s-espresso",
+          "product_id": "prod-11",
+          "size": "S",
+          "color": "Espresso",
+          "color_hex": "#3F2D24",
+          "sku": "ATL-011-S-ESP",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-11-s-warmsand",
+          "product_id": "prod-11",
+          "size": "S",
+          "color": "Warm Sand",
+          "color_hex": "#D6CAB8",
+          "sku": "ATL-011-S-WAR",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-11-m-espresso",
+          "product_id": "prod-11",
+          "size": "M",
+          "color": "Espresso",
+          "color_hex": "#3F2D24",
+          "sku": "ATL-011-M-ESP",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-11-m-warmsand",
+          "product_id": "prod-11",
+          "size": "M",
+          "color": "Warm Sand",
+          "color_hex": "#D6CAB8",
+          "sku": "ATL-011-M-WAR",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-11-l-espresso",
+          "product_id": "prod-11",
+          "size": "L",
+          "color": "Espresso",
+          "color_hex": "#3F2D24",
+          "sku": "ATL-011-L-ESP",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-11-l-warmsand",
+          "product_id": "prod-11",
+          "size": "L",
+          "color": "Warm Sand",
+          "color_hex": "#D6CAB8",
+          "sku": "ATL-011-L-WAR",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-12",
+      "name": "Brushed Twill Overshirt",
+      "slug": "brushed-twill-overshirt",
+      "description": "Transitional layering overshirt cut from heavyweight brushed cotton twill with twin chest flap pockets and corozo buttons.",
+      "fabric_info": "100% Heavyweight Brushed Organic Cotton Twill · 340 GSM",
+      "care_info": "Machine wash cold. Warm iron if needed.",
+      "category_id": "cat-mens",
+      "category_name": "Men's Clothing",
+      "category_slug": "mens-clothing",
+      "gender": "men",
+      "brand": "ATELIER ORIGINALS",
+      "collection": "The Everyday Edit",
+      "base_price": 2999,
+      "sale_price": 2399,
+      "featured": false,
+      "bestseller": true,
+      "new_arrival": false,
+      "status": "active",
+      "rating_avg": 4.8,
+      "review_count": 48,
+      "images": [
+        {
+          "id": "prod-12-img-1",
+          "product_id": "prod-12",
+          "image_url": "/src/assets/images/prod_overshirt_jacket_1795358069536.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-12-img-2",
+          "product_id": "prod-12",
+          "image_url": "/src/assets/images/prod_casual_shirt_1795358068564.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-12-s-sandbeige",
+          "product_id": "prod-12",
+          "size": "S",
+          "color": "Sand Beige",
+          "color_hex": "#C6B497",
+          "sku": "ATL-012-S-SAN",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-12-s-charcoal",
+          "product_id": "prod-12",
+          "size": "S",
+          "color": "Charcoal",
+          "color_hex": "#383838",
+          "sku": "ATL-012-S-CHA",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-12-m-sandbeige",
+          "product_id": "prod-12",
+          "size": "M",
+          "color": "Sand Beige",
+          "color_hex": "#C6B497",
+          "sku": "ATL-012-M-SAN",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-12-m-charcoal",
+          "product_id": "prod-12",
+          "size": "M",
+          "color": "Charcoal",
+          "color_hex": "#383838",
+          "sku": "ATL-012-M-CHA",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-12-l-sandbeige",
+          "product_id": "prod-12",
+          "size": "L",
+          "color": "Sand Beige",
+          "color_hex": "#C6B497",
+          "sku": "ATL-012-L-SAN",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-12-l-charcoal",
+          "product_id": "prod-12",
+          "size": "L",
+          "color": "Charcoal",
+          "color_hex": "#383838",
+          "sku": "ATL-012-L-CHA",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-12-xl-sandbeige",
+          "product_id": "prod-12",
+          "size": "XL",
+          "color": "Sand Beige",
+          "color_hex": "#C6B497",
+          "sku": "ATL-012-XL-SAN",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-12-xl-charcoal",
+          "product_id": "prod-12",
+          "size": "XL",
+          "color": "Charcoal",
+          "color_hex": "#383838",
+          "sku": "ATL-012-XL-CHA",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-13",
+      "name": "Linen Camp Resort Shirt",
+      "slug": "linen-camp-resort-shirt",
+      "description": "Airy open-collar resort shirt spun from pre-washed Normandy linen for effortless drape on warm coastal evenings.",
+      "fabric_info": "100% Pre-Washed European Linen",
+      "care_info": "Cold gentle wash. Air dry on hanger.",
+      "category_id": "cat-summer",
+      "category_name": "Summer Collection",
+      "category_slug": "summer-collection",
+      "gender": "men",
+      "brand": "EVERYDAY EDIT",
+      "collection": "Summer Breeze",
+      "base_price": 2199,
+      "sale_price": 1699,
+      "featured": false,
+      "bestseller": false,
+      "new_arrival": true,
+      "status": "active",
+      "rating_avg": 4.7,
+      "review_count": 19,
+      "images": [
+        {
+          "id": "prod-13-img-1",
+          "product_id": "prod-13",
+          "image_url": "/src/assets/images/prod_linen_resort_set_1795358068845.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-13-img-2",
+          "product_id": "prod-13",
+          "image_url": "/src/assets/images/prod_casual_shirt_1795358068564.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-13-s-naturalivory",
+          "product_id": "prod-13",
+          "size": "S",
+          "color": "Natural Ivory",
+          "color_hex": "#EAE5D7",
+          "sku": "ATL-013-S-NAT",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-13-s-sagemist",
+          "product_id": "prod-13",
+          "size": "S",
+          "color": "Sage Mist",
+          "color_hex": "#98A092",
+          "sku": "ATL-013-S-SAG",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-13-m-naturalivory",
+          "product_id": "prod-13",
+          "size": "M",
+          "color": "Natural Ivory",
+          "color_hex": "#EAE5D7",
+          "sku": "ATL-013-M-NAT",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-13-m-sagemist",
+          "product_id": "prod-13",
+          "size": "M",
+          "color": "Sage Mist",
+          "color_hex": "#98A092",
+          "sku": "ATL-013-M-SAG",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-13-l-naturalivory",
+          "product_id": "prod-13",
+          "size": "L",
+          "color": "Natural Ivory",
+          "color_hex": "#EAE5D7",
+          "sku": "ATL-013-L-NAT",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-13-l-sagemist",
+          "product_id": "prod-13",
+          "size": "L",
+          "color": "Sage Mist",
+          "color_hex": "#98A092",
+          "sku": "ATL-013-L-SAG",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-13-xl-naturalivory",
+          "product_id": "prod-13",
+          "size": "XL",
+          "color": "Natural Ivory",
+          "color_hex": "#EAE5D7",
+          "sku": "ATL-013-XL-NAT",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-13-xl-sagemist",
+          "product_id": "prod-13",
+          "size": "XL",
+          "color": "Sage Mist",
+          "color_hex": "#98A092",
+          "sku": "ATL-013-XL-SAG",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-14",
+      "name": "Heavyweight Boxy Tee",
+      "slug": "heavyweight-boxy-tee",
+      "description": "Garment-dyed charcoal streetwear tee with dropped shoulders and high-density dry-hand cotton finish.",
+      "fabric_info": "100% Combed Dry-Hand Cotton · 300 GSM",
+      "care_info": "Machine wash cold with similar colors.",
+      "category_id": "cat-streetwear",
+      "category_name": "Streetwear",
+      "category_slug": "streetwear",
+      "gender": "unisex",
+      "brand": "URBAN CULTURE",
+      "collection": "Urban Streetwear",
+      "base_price": 1299,
+      "sale_price": null,
+      "featured": false,
+      "bestseller": true,
+      "new_arrival": false,
+      "status": "active",
+      "rating_avg": 4.7,
+      "review_count": 55,
+      "images": [
+        {
+          "id": "prod-14-img-1",
+          "product_id": "prod-14",
+          "image_url": "/src/assets/images/hero_streetwear_look_1795358068664.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-14-img-2",
+          "product_id": "prod-14",
+          "image_url": "/src/assets/images/prod_oversized_tee_1795358068409.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-14-s-washedonyx",
+          "product_id": "prod-14",
+          "size": "S",
+          "color": "Washed Onyx",
+          "color_hex": "#2D2F30",
+          "sku": "ATL-014-S-WAS",
+          "stock_quantity": 11,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-14-s-bone",
+          "product_id": "prod-14",
+          "size": "S",
+          "color": "Bone",
+          "color_hex": "#ECEAE2",
+          "sku": "ATL-014-S-BON",
+          "stock_quantity": 11,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-14-m-washedonyx",
+          "product_id": "prod-14",
+          "size": "M",
+          "color": "Washed Onyx",
+          "color_hex": "#2D2F30",
+          "sku": "ATL-014-M-WAS",
+          "stock_quantity": 11,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-14-m-bone",
+          "product_id": "prod-14",
+          "size": "M",
+          "color": "Bone",
+          "color_hex": "#ECEAE2",
+          "sku": "ATL-014-M-BON",
+          "stock_quantity": 11,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-14-l-washedonyx",
+          "product_id": "prod-14",
+          "size": "L",
+          "color": "Washed Onyx",
+          "color_hex": "#2D2F30",
+          "sku": "ATL-014-L-WAS",
+          "stock_quantity": 11,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-14-l-bone",
+          "product_id": "prod-14",
+          "size": "L",
+          "color": "Bone",
+          "color_hex": "#ECEAE2",
+          "sku": "ATL-014-L-BON",
+          "stock_quantity": 11,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-14-xl-washedonyx",
+          "product_id": "prod-14",
+          "size": "XL",
+          "color": "Washed Onyx",
+          "color_hex": "#2D2F30",
+          "sku": "ATL-014-XL-WAS",
+          "stock_quantity": 11,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-14-xl-bone",
+          "product_id": "prod-14",
+          "size": "XL",
+          "color": "Bone",
+          "color_hex": "#ECEAE2",
+          "sku": "ATL-014-XL-BON",
+          "stock_quantity": 11,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-15",
+      "name": "Drawstring Linen Trousers",
+      "slug": "drawstring-linen-trousers",
+      "description": "Relaxed tapered linen trousers featuring a discreet internal drawstring, single front pleat, and breathable cotton pocketing.",
+      "fabric_info": "100% Belgian Flax Linen",
+      "care_info": "Cold gentle wash. Line dry.",
+      "category_id": "cat-summer",
+      "category_name": "Summer Collection",
+      "category_slug": "summer-collection",
+      "gender": "men",
+      "brand": "FORM STUDIO",
+      "collection": "Summer Breeze",
+      "base_price": 2599,
+      "sale_price": 2199,
+      "featured": false,
+      "bestseller": false,
+      "new_arrival": true,
+      "status": "active",
+      "rating_avg": 4.8,
+      "review_count": 21,
+      "images": [
+        {
+          "id": "prod-15-img-1",
+          "product_id": "prod-15",
+          "image_url": "/src/assets/images/prod_linen_resort_set_1795358068845.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-15-img-2",
+          "product_id": "prod-15",
+          "image_url": "/src/assets/images/prod_overshirt_jacket_1795358069536.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-15-28-oatcream",
+          "product_id": "prod-15",
+          "size": "28",
+          "color": "Oat Cream",
+          "color_hex": "#E6E0D0",
+          "sku": "ATL-015-28-OAT",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-15-28-slate",
+          "product_id": "prod-15",
+          "size": "28",
+          "color": "Slate",
+          "color_hex": "#5A5E60",
+          "sku": "ATL-015-28-SLA",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-15-30-oatcream",
+          "product_id": "prod-15",
+          "size": "30",
+          "color": "Oat Cream",
+          "color_hex": "#E6E0D0",
+          "sku": "ATL-015-30-OAT",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-15-30-slate",
+          "product_id": "prod-15",
+          "size": "30",
+          "color": "Slate",
+          "color_hex": "#5A5E60",
+          "sku": "ATL-015-30-SLA",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-15-32-oatcream",
+          "product_id": "prod-15",
+          "size": "32",
+          "color": "Oat Cream",
+          "color_hex": "#E6E0D0",
+          "sku": "ATL-015-32-OAT",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-15-32-slate",
+          "product_id": "prod-15",
+          "size": "32",
+          "color": "Slate",
+          "color_hex": "#5A5E60",
+          "sku": "ATL-015-32-SLA",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-15-34-oatcream",
+          "product_id": "prod-15",
+          "size": "34",
+          "color": "Oat Cream",
+          "color_hex": "#E6E0D0",
+          "sku": "ATL-015-34-OAT",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-15-34-slate",
+          "product_id": "prod-15",
+          "size": "34",
+          "color": "Slate",
+          "color_hex": "#5A5E60",
+          "sku": "ATL-015-34-SLA",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-16",
+      "name": "Pleated Wide-Leg Trousers",
+      "slug": "pleated-wide-leg-trousers",
+      "description": "Double-pleated tailored trousers crafted from fluid organic linen-wool blend with an elongated clean drape.",
+      "fabric_info": "60% Organic Linen, 40% Traceable Merino Wool",
+      "care_info": "Dry clean or delicate cold wool wash.",
+      "category_id": "cat-womens",
+      "category_name": "Women's Clothing",
+      "category_slug": "womens-clothing",
+      "gender": "women",
+      "brand": "FORM STUDIO",
+      "collection": "Contemporary Classics",
+      "base_price": 3499,
+      "sale_price": 2899,
+      "featured": false,
+      "bestseller": true,
+      "new_arrival": false,
+      "status": "active",
+      "rating_avg": 4.9,
+      "review_count": 31,
+      "images": [
+        {
+          "id": "prod-16-img-1",
+          "product_id": "prod-16",
+          "image_url": "/src/assets/images/hero_editorial_blazer_1795358277842.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-16-img-2",
+          "product_id": "prod-16",
+          "image_url": "/src/assets/images/prod_cropped_cardigan_1795358068162.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-16-xs-warmoatmeal",
+          "product_id": "prod-16",
+          "size": "XS",
+          "color": "Warm Oatmeal",
+          "color_hex": "#D8CFC0",
+          "sku": "ATL-016-XS-WAR",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-16-xs-ivory",
+          "product_id": "prod-16",
+          "size": "XS",
+          "color": "Ivory",
+          "color_hex": "#F3EFE6",
+          "sku": "ATL-016-XS-IVO",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-16-s-warmoatmeal",
+          "product_id": "prod-16",
+          "size": "S",
+          "color": "Warm Oatmeal",
+          "color_hex": "#D8CFC0",
+          "sku": "ATL-016-S-WAR",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-16-s-ivory",
+          "product_id": "prod-16",
+          "size": "S",
+          "color": "Ivory",
+          "color_hex": "#F3EFE6",
+          "sku": "ATL-016-S-IVO",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-16-m-warmoatmeal",
+          "product_id": "prod-16",
+          "size": "M",
+          "color": "Warm Oatmeal",
+          "color_hex": "#D8CFC0",
+          "sku": "ATL-016-M-WAR",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-16-m-ivory",
+          "product_id": "prod-16",
+          "size": "M",
+          "color": "Ivory",
+          "color_hex": "#F3EFE6",
+          "sku": "ATL-016-M-IVO",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-16-l-warmoatmeal",
+          "product_id": "prod-16",
+          "size": "L",
+          "color": "Warm Oatmeal",
+          "color_hex": "#D8CFC0",
+          "sku": "ATL-016-L-WAR",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-16-l-ivory",
+          "product_id": "prod-16",
+          "size": "L",
+          "color": "Ivory",
+          "color_hex": "#F3EFE6",
+          "sku": "ATL-016-L-IVO",
+          "stock_quantity": 8,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-17",
+      "name": "Calfskin Penny Loafers",
+      "slug": "calfskin-penny-loafers",
+      "description": "Hand-welted espresso calfskin penny loafers with Goodyear leather soles and cushioned anatomical footbeds.",
+      "fabric_info": "Full-Grain Italian Calfskin Leather · Blake-Stitched Sole",
+      "care_info": "Brush and condition with neutral shoe cream after wear.",
+      "category_id": "cat-sneakers",
+      "category_name": "Sneakers",
+      "category_slug": "sneakers",
+      "gender": "unisex",
+      "brand": "ATELIER ORIGINALS",
+      "collection": "Contemporary Classics",
+      "base_price": 4999,
+      "sale_price": 3899,
+      "featured": false,
+      "bestseller": true,
+      "new_arrival": true,
+      "status": "active",
+      "rating_avg": 4.9,
+      "review_count": 38,
+      "images": [
+        {
+          "id": "prod-17-img-1",
+          "product_id": "prod-17",
+          "image_url": "/src/assets/images/prod_leather_loafers_1795358278736.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-17-img-2",
+          "product_id": "prod-17",
+          "image_url": "/src/assets/images/prod_minimal_sneakers_1795358069136.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-17-uk6-espressoblack",
+          "product_id": "prod-17",
+          "size": "UK 6",
+          "color": "Espresso Black",
+          "color_hex": "#231D1A",
+          "sku": "ATL-017-UK6-ESP",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-17-uk7-espressoblack",
+          "product_id": "prod-17",
+          "size": "UK 7",
+          "color": "Espresso Black",
+          "color_hex": "#231D1A",
+          "sku": "ATL-017-UK7-ESP",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-17-uk8-espressoblack",
+          "product_id": "prod-17",
+          "size": "UK 8",
+          "color": "Espresso Black",
+          "color_hex": "#231D1A",
+          "sku": "ATL-017-UK8-ESP",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-17-uk9-espressoblack",
+          "product_id": "prod-17",
+          "size": "UK 9",
+          "color": "Espresso Black",
+          "color_hex": "#231D1A",
+          "sku": "ATL-017-UK9-ESP",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-17-uk10-espressoblack",
+          "product_id": "prod-17",
+          "size": "UK 10",
+          "color": "Espresso Black",
+          "color_hex": "#231D1A",
+          "sku": "ATL-017-UK10-ESP",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-18",
+      "name": "Tortoiseshell Acetate Sunglasses",
+      "slug": "tortoiseshell-acetate-sunglasses",
+      "description": "Hand-carved Italian cellulose acetate frames fitted with Carl Zeiss UV400 tinted lenses and five-barrel hinges.",
+      "fabric_info": "Mazzucchelli Bio-Acetate · CR-39 100% UV400 Lenses",
+      "care_info": "Store in structured case. Clean with microfiber lens cloth.",
+      "category_id": "cat-accessories",
+      "category_name": "Accessories",
+      "category_slug": "accessories",
+      "gender": "unisex",
+      "brand": "FORM STUDIO",
+      "collection": "Summer Breeze",
+      "base_price": 2499,
+      "sale_price": 1899,
+      "featured": false,
+      "bestseller": false,
+      "new_arrival": true,
+      "status": "active",
+      "rating_avg": 4.9,
+      "review_count": 27,
+      "images": [
+        {
+          "id": "prod-18-img-1",
+          "product_id": "prod-18",
+          "image_url": "/src/assets/images/prod_sunglasses_acetate_1795358278746.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-18-img-2",
+          "product_id": "prod-18",
+          "image_url": "/src/assets/images/prod_tote_bag_1795358068183.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-18-onesize-warmtortoise",
+          "product_id": "prod-18",
+          "size": "One Size",
+          "color": "Warm Tortoise",
+          "color_hex": "#7A4B2A",
+          "sku": "ATL-018-OneSize-WAR",
+          "stock_quantity": 32,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-19",
+      "name": "Loopback Zip Sweatshirt",
+      "slug": "loopback-zip-sweatshirt",
+      "description": "Clean-line half-zip pullover engineered in midweight loopback terry with tonal YKK Excella hardware.",
+      "fabric_info": "100% Organic Loopback Cotton · 400 GSM",
+      "care_info": "Cold gentle wash. Lay flat to dry.",
+      "category_id": "cat-streetwear",
+      "category_name": "Streetwear",
+      "category_slug": "streetwear",
+      "gender": "men",
+      "brand": "ESSENTIALS",
+      "collection": "Urban Streetwear",
+      "base_price": 2499,
+      "sale_price": 1899,
+      "featured": false,
+      "bestseller": false,
+      "new_arrival": false,
+      "status": "active",
+      "rating_avg": 4.6,
+      "review_count": 18,
+      "images": [
+        {
+          "id": "prod-19-img-1",
+          "product_id": "prod-19",
+          "image_url": "/src/assets/images/prod_essential_hoodie_1795358068572.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-19-img-2",
+          "product_id": "prod-19",
+          "image_url": "/src/assets/images/prod_bomber_jacket_1795358069410.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-19-s-deepcharcoal",
+          "product_id": "prod-19",
+          "size": "S",
+          "color": "Deep Charcoal",
+          "color_hex": "#2D2E30",
+          "sku": "ATL-019-S-DEE",
+          "stock_quantity": 13,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-19-m-deepcharcoal",
+          "product_id": "prod-19",
+          "size": "M",
+          "color": "Deep Charcoal",
+          "color_hex": "#2D2E30",
+          "sku": "ATL-019-M-DEE",
+          "stock_quantity": 13,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-19-l-deepcharcoal",
+          "product_id": "prod-19",
+          "size": "L",
+          "color": "Deep Charcoal",
+          "color_hex": "#2D2E30",
+          "sku": "ATL-019-L-DEE",
+          "stock_quantity": 13,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-19-xl-deepcharcoal",
+          "product_id": "prod-19",
+          "size": "XL",
+          "color": "Deep Charcoal",
+          "color_hex": "#2D2E30",
+          "sku": "ATL-019-XL-DEE",
+          "stock_quantity": 13,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-20",
+      "name": "Selvedge Relaxed Straight Jean",
+      "slug": "selvedge-relaxed-straight-jean",
+      "description": "Classic straight-leg silhouette in stone-washed organic denim with reinforced copper rivets and chain-stitched hems.",
+      "fabric_info": "100% Organic Cotton Denim · 13 oz",
+      "care_info": "Machine wash cold inside out.",
+      "category_id": "cat-mens",
+      "category_name": "Men's Clothing",
+      "category_slug": "mens-clothing",
+      "gender": "men",
+      "brand": "URBAN CULTURE",
+      "collection": "Contemporary Classics",
+      "base_price": 2999,
+      "sale_price": 2399,
+      "featured": false,
+      "bestseller": false,
+      "new_arrival": false,
+      "status": "active",
+      "rating_avg": 4.7,
+      "review_count": 34,
+      "images": [
+        {
+          "id": "prod-20-img-1",
+          "product_id": "prod-20",
+          "image_url": "/src/assets/images/prod_relaxed_denim_1795358068792.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-20-img-2",
+          "product_id": "prod-20",
+          "image_url": "/src/assets/images/prod_casual_shirt_1795358068564.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-20-28-midindigo",
+          "product_id": "prod-20",
+          "size": "28",
+          "color": "Mid Indigo",
+          "color_hex": "#385478",
+          "sku": "ATL-020-28-MID",
+          "stock_quantity": 11,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-20-30-midindigo",
+          "product_id": "prod-20",
+          "size": "30",
+          "color": "Mid Indigo",
+          "color_hex": "#385478",
+          "sku": "ATL-020-30-MID",
+          "stock_quantity": 11,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-20-32-midindigo",
+          "product_id": "prod-20",
+          "size": "32",
+          "color": "Mid Indigo",
+          "color_hex": "#385478",
+          "sku": "ATL-020-32-MID",
+          "stock_quantity": 11,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-20-34-midindigo",
+          "product_id": "prod-20",
+          "size": "34",
+          "color": "Mid Indigo",
+          "color_hex": "#385478",
+          "sku": "ATL-020-34-MID",
+          "stock_quantity": 11,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-20-36-midindigo",
+          "product_id": "prod-20",
+          "size": "36",
+          "color": "Mid Indigo",
+          "color_hex": "#385478",
+          "sku": "ATL-020-36-MID",
+          "stock_quantity": 11,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-21",
+      "name": "Atelier Wool Overshirt",
+      "slug": "atelier-wool-overshirt",
+      "description": "Unstructured tailored overshirt cut from recycled Italian wool-twill for sharp transitional layering.",
+      "fabric_info": "70% Recycled Virgin Wool, 30% Recycled Polyamide",
+      "care_info": "Dry clean only.",
+      "category_id": "cat-mens",
+      "category_name": "Men's Clothing",
+      "category_slug": "mens-clothing",
+      "gender": "men",
+      "brand": "FORM STUDIO",
+      "collection": "Contemporary Classics",
+      "base_price": 3899,
+      "sale_price": 3199,
+      "featured": false,
+      "bestseller": false,
+      "new_arrival": true,
+      "status": "active",
+      "rating_avg": 4.9,
+      "review_count": 14,
+      "images": [
+        {
+          "id": "prod-21-img-1",
+          "product_id": "prod-21",
+          "image_url": "/src/assets/images/prod_overshirt_jacket_1795358069536.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-21-img-2",
+          "product_id": "prod-21",
+          "image_url": "/src/assets/images/prod_bomber_jacket_1795358069410.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-21-s-cameltwill",
+          "product_id": "prod-21",
+          "size": "S",
+          "color": "Camel Twill",
+          "color_hex": "#C2AD8D",
+          "sku": "ATL-021-S-CAM",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-21-m-cameltwill",
+          "product_id": "prod-21",
+          "size": "M",
+          "color": "Camel Twill",
+          "color_hex": "#C2AD8D",
+          "sku": "ATL-021-M-CAM",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-21-l-cameltwill",
+          "product_id": "prod-21",
+          "size": "L",
+          "color": "Camel Twill",
+          "color_hex": "#C2AD8D",
+          "sku": "ATL-021-L-CAM",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-21-xl-cameltwill",
+          "product_id": "prod-21",
+          "size": "XL",
+          "color": "Camel Twill",
+          "color_hex": "#C2AD8D",
+          "sku": "ATL-021-XL-CAM",
+          "stock_quantity": 9,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    },
+    {
+      "id": "prod-22",
+      "name": "Summer Breeze Linen Set",
+      "slug": "summer-breeze-linen-set",
+      "description": "Two-piece coordinated resort shirt and pleated drawstring trousers tailored from breathable ivory flax.",
+      "fabric_info": "100% European Long-Staple Linen",
+      "care_info": "Machine wash cold delicate. Steam while damp.",
+      "category_id": "cat-summer",
+      "category_name": "Summer Collection",
+      "category_slug": "summer-collection",
+      "gender": "unisex",
+      "brand": "EVERYDAY EDIT",
+      "collection": "Summer Breeze",
+      "base_price": 4299,
+      "sale_price": 3499,
+      "featured": false,
+      "bestseller": true,
+      "new_arrival": true,
+      "status": "active",
+      "rating_avg": 4.9,
+      "review_count": 26,
+      "images": [
+        {
+          "id": "prod-22-img-1",
+          "product_id": "prod-22",
+          "image_url": "/src/assets/images/prod_linen_resort_set_1795358068845.jpg",
+          "display_order": 0
+        },
+        {
+          "id": "prod-22-img-2",
+          "product_id": "prod-22",
+          "image_url": "/src/assets/images/prod_oversized_tee_1795358068409.jpg",
+          "display_order": 1
+        }
+      ],
+      "variants": [
+        {
+          "id": "prod-22-xs-ivorylinen",
+          "product_id": "prod-22",
+          "size": "XS",
+          "color": "Ivory Linen",
+          "color_hex": "#EBE6D8",
+          "sku": "ATL-022-XS-IVO",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-22-s-ivorylinen",
+          "product_id": "prod-22",
+          "size": "S",
+          "color": "Ivory Linen",
+          "color_hex": "#EBE6D8",
+          "sku": "ATL-022-S-IVO",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-22-m-ivorylinen",
+          "product_id": "prod-22",
+          "size": "M",
+          "color": "Ivory Linen",
+          "color_hex": "#EBE6D8",
+          "sku": "ATL-022-M-IVO",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-22-l-ivorylinen",
+          "product_id": "prod-22",
+          "size": "L",
+          "color": "Ivory Linen",
+          "color_hex": "#EBE6D8",
+          "sku": "ATL-022-L-IVO",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        },
+        {
+          "id": "prod-22-xl-ivorylinen",
+          "product_id": "prod-22",
+          "size": "XL",
+          "color": "Ivory Linen",
+          "color_hex": "#EBE6D8",
+          "sku": "ATL-022-XL-IVO",
+          "stock_quantity": 10,
+          "price_adjustment": 0
+        }
+      ],
+      "created_at": "2026-11-22T14:45:52.435Z"
+    }
+  ],
+  "addresses": [],
+  "cart_items": [],
+  "wishlists": [],
+  "orders": [],
+  "payments": [],
+  "coupons": [
+    {
+      "id": "coup-welcome10",
+      "code": "WELCOME10",
+      "discount_type": "percentage",
+      "discount_value": 10,
+      "minimum_order": 999,
+      "maximum_discount": 1000,
+      "expiry_date": "2027-12-31T23:59:59.000Z",
+      "usage_limit": 5000,
+      "usage_count": 142,
+      "is_active": true
+    },
+    {
+      "id": "coup-atelier20",
+      "code": "ATELIER20",
+      "discount_type": "percentage",
+      "discount_value": 20,
+      "minimum_order": 2499,
+      "maximum_discount": 1500,
+      "expiry_date": "2027-12-31T23:59:59.000Z",
+      "usage_limit": 2000,
+      "usage_count": 89,
+      "is_active": true
+    },
+    {
+      "id": "coup-firstorder",
+      "code": "FIRSTORDER",
+      "discount_type": "fixed",
+      "discount_value": 400,
+      "minimum_order": 1499,
+      "maximum_discount": 400,
+      "expiry_date": "2027-12-31T23:59:59.000Z",
+      "usage_limit": 3000,
+      "usage_count": 215,
+      "is_active": true
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "user_id": "seed-cust-1",
+      "user_name": "Aarav Mehta",
+      "product_id": "prod-1",
+      "product_name": "Oversized Cotton T-Shirt",
+      "rating": 5,
+      "comment": "The 280 GSM cotton drape feels substantial without ever feeling stiff. Collar holds its shape cleanly after multiple washes.",
+      "created_at": "2026-10-14T10:20:00.000Z"
+    },
+    {
+      "id": "rev-2",
+      "user_id": "seed-cust-2",
+      "user_name": "Diya Kapoor",
+      "product_id": "prod-5",
+      "product_name": "Women's Summer Dress",
+      "rating": 5,
+      "comment": "Effortless cut and genuinely breathable linen. The hidden pockets make it my go-to daytime piece.",
+      "created_at": "2026-10-22T14:15:00.000Z"
+    },
+    {
+      "id": "rev-3",
+      "user_id": "seed-cust-3",
+      "user_name": "Rohan Nair",
+      "product_id": "prod-6",
+      "product_name": "Minimal Sneakers",
+      "rating": 5,
+      "comment": "Zero break-in time. The suede heel trim and off-white leather pair effortlessly with tailored trousers and denim.",
+      "created_at": "2026-11-02T09:40:00.000Z"
+    },
+    {
+      "id": "rev-4",
+      "user_id": "seed-cust-4",
+      "user_name": "Ananya Verma",
+      "product_id": "prod-8",
+      "product_name": "Everyday Tote Bag",
+      "rating": 5,
+      "comment": "Structured enough to stand on its own on my studio floor and comfortably carries my 16-inch laptop plus sketchbook.",
+      "created_at": "2026-11-10T17:05:00.000Z"
+    }
+  ],
+  "newsletter_subscribers": [],
+  "settings": {
+    "store_name": "ATELIER",
+    "free_shipping_threshold": 1999,
+    "standard_shipping_fee": 149,
+    "express_shipping_fee": 299,
+    "tax_rate_percent": 12,
+    "support_email": "concierge@atelier-store.com",
+    "announcement_text": "NEW SEASON COLLECTION IS HERE · FREE SHIPPING ON ORDERS ABOVE ₹1,999"
+  },
+  "admin_bootstrap": {
+    "claimed": false,
+    "passcode_hash": null
+  }
+}
